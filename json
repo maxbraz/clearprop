@@ -1,0 +1,1860 @@
+{
+  "analytics": {
+    "avmConfidencePercent": {
+      "label": "High",
+      "value": 92
+    },
+    "avmEffectiveDate": "2023-10-30",
+    "avmFsd": 0.08,
+    "avmHigh": 646962,
+    "avmLow": 548331,
+    "avmValue": 597646,
+    "hdiTrend": {
+      "endDate": "2023-10-30",
+      "model": "REPEAT_SALES",
+      "startDate": "2023-07-01",
+      "trend": 0.0426
+    },
+    "rentalAverageEstimatedValue": null,
+    "runDate": "2023-10-26",
+    "subjectEstimateConfidence": {
+      "label": null,
+      "value": null
+    },
+    "subjectEstimateValue": null
+  },
+  "comparables": {
+    "hasUserSuppliedComps": false,
+    "leaseListings": null,
+    "leaseSales": [
+      {
+        "address": {
+          "city": "Lakewood",
+          "state": "CO",
+          "street": "5745 W 2nd Ave",
+          "zipcode": "80226"
+        },
+        "apn": "109347",
+        "basementSize": 486,
+        "bath": null,
+        "bathFull": 1,
+        "bathHalf": 1,
+        "bed": 3,
+        "built": 1979,
+        "clearRank": 1,
+        "compContext": "SALE",
+        "cooling": "Central",
+        "countyLandUse": null,
+        "dataSource": "MLS",
+        "daysOnMarket": 18,
+        "distanceToSubject": 0.327413744589067,
+        "fireplace": null,
+        "foundation": null,
+        "garageCount": 2,
+        "garageType": "Attached Garage",
+        "geo": {
+          "accuracyCode": "PARCEL",
+          "latitude": 39.720214,
+          "longitude": -105.059608,
+          "source": "DIGITALMAP"
+        },
+        "gla": 1302,
+        "heating": "Forced air unit",
+        "hoaAmount": null,
+        "hoaName": null,
+        "hoaPhoneNumber": null,
+        "isUserSupplied": false,
+        "levels": null,
+        "listDate": "2023-07-10",
+        "listTypeName": "LEASE",
+        "lotSize": null,
+        "mlsCommentary": "Large Townhome/Duplex 3 bed/2 bath w/2 car attached garage w/fenced in back yard available now! Enter the front door to the family room,kitchen,and pantry,1/2 bath and dining area on the main floor. The side door provides access to the fenced in back yard. Upstairs are 3 large bedrooms and a full bathroom. Neutral paint throughout. The laundry area is in the open unfinished basement perfect to store your gear. Fabulous location and close to everything. Large front yard and small fenced in back yard for easy maintenance Newer furnace and water heater and AC Super close to Belmar in Lakewood,nice curb appeal and sits back off the street Close to Alameda,6th Ave,parks,major transportation,shops and dining Pets allowed with additional deposit $00 per pet and pet fee $20 per month 12-month lease minimum NO Smoking of ANY kind $50.00 Application fee per adult applicant (Over the age of 18) 1st months’ rent and security deposit to move-in Security deposit insurance options available,please inquire Tenant pays gas/electric and prorated water usage,garbage and maintains the yard Tenant must provide proof of renter's insurance Call Park Realty & Property Management to schedule a showing today!",
+        "mlsName": null,
+        "mlsNumber": "8255324",
+        "photos": null,
+        "pool": null,
+        "pricePerSquareFoot": 2,
+        "propertyType": "SFR",
+        "propertyTypeLong": "Single Family",
+        "roof": null,
+        "saleDate": "2023-07-28",
+        "saleType": "Fair Market",
+        "status": "Sale",
+        "statusDate": "2023-07-28",
+        "statusPrice": 3000,
+        "style": "Contemporary",
+        "unfinishedBasementSize": 486,
+        "units": null,
+        "view": null,
+        "zoningCode": null,
+        "zoningType": null
+      }
+    ],
+    "listings": [
+      {
+        "address": {
+          "city": "Denver",
+          "state": "CO",
+          "street": "102 S Zenobia St",
+          "zipcode": "80219-1735"
+        },
+        "apn": "0507336002000",
+        "basementSize": null,
+        "bath": null,
+        "bathFull": 1,
+        "bathHalf": null,
+        "bed": 4,
+        "built": 1955,
+        "clearRank": 1,
+        "compContext": "LIST",
+        "cooling": "Central",
+        "countyLandUse": null,
+        "dataSource": "MLS",
+        "daysOnMarket": 214,
+        "distanceToSubject": 0.246013103647073,
+        "fireplace": null,
+        "foundation": null,
+        "garageCount": 2,
+        "garageType": null,
+        "geo": {
+          "accuracyCode": "PARCEL",
+          "latitude": 39.714818,
+          "longitude": -105.051436,
+          "source": "DIGITALMAP"
+        },
+        "gla": null,
+        "heating": "Forced air unit",
+        "hoaAmount": null,
+        "hoaName": null,
+        "hoaPhoneNumber": null,
+        "isUserSupplied": false,
+        "levels": 1,
+        "listDate": "2023-03-30",
+        "listTypeName": "SALE",
+        "listingId": 213697640,
+        "lotSize": "0",
+        "mlsCommentary": "PRICE IMPROVEMENT: Welcome to your stunning new investment opportunity in the heart of Denver,Colorado! This charming single-family home boasts three spacious bedrooms,two bathrooms,and a prime corner lot location,making it a top choice for savvy investors and homebuyers alike. Currently a fully staged and performing Airbnb income property,this home offers the perfect combination of comfort and investment potential. Featuring a thoughtfully designed mother-in-law apartment,this property is ideal for cohosting or owner occupancy,providing versatile living arrangements and endless possibilities for additional income. Inside,this home exudes warmth and character,with stunning natural light and gorgeous hardwood floors throughout. The upgraded kitchen features stainless steel appliances and granite countertops,making it a perfect space for preparing delicious meals for guests or family. Located in the heart of Denver,this home offers easy access to some of the city's top-rated schools,shopping,dining,and entertainment options,as well as world-class outdoor recreational activities. And with its thriving Airbnb income,this property is an exceptional investment opportunity that is sure to generate significant returns for years to come. **Basement is tenant occupied- pictures will be uploaded as soon as possible. Don't miss out on the chance to own this exceptional income producing property in one of Denver's most desirable neighborhoods. Contact us today to schedule a viewing and experience the possibilities for yourself!",
+        "mlsName": "IRES MLS",
+        "mlsNumber": "6059020",
+        "photos": {
+          "insertedDate": "2023-06-01T21:47:53Z",
+          "listingId": 213697640,
+          "mlsBoardKey": "IRESMLSCO",
+          "mlsId": "6059020",
+          "photoResult": [
+            {
+              "imageDescription": "",
+              "imageHash": "0b91d4a39912a33b2888fd26507e55b5",
+              "imageMimeType": "Photo",
+              "imageOrderId": 1,
+              "imageResolution": {
+                "height": 2560,
+                "width": 1920
+              },
+              "imageSize": 699962,
+              "url": "https://dexjpy0wclpxj.cloudfront.net/046796312/0b91d4a39912a33b2888fd26507e55b5.jpeg?Expires=1717284033&Signature=dV6n8Yf8Ruct1zPEDrdEg7B6p2e15hEhp0sCchPlfDrQdFJx3GFzrelrsw4Np8RlMIc4wFjGYawI3DNxxAz8mz-FxMLJOPGPMX1XYwOsu7vfLukdPUmYDJQoT8Ngb74Tln64rS3ywqB7e5BtgFzffIyP5hPNGnDELKD5z3XwZ--HWrJ2eFFcmtcNT0Pv7FHP~geKPz01f5SjicOloryO1DLOg41db2XPKuEmkVwl24k~u4rP6ohsSMuDXHpiNw3QZ-48We9qI3nhCbP3Qbc2w8a0wRV43ddZTmXuE2q2Cfqc6i1PUcI0P2ArabodAs36tGB0GoUx8B8HOnheesQ7mg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+            }
+          ],
+          "totalPhotoCount": 40
+        },
+        "pool": null,
+        "pricePerSquareFoot": null,
+        "propertyType": "SFR",
+        "propertyTypeLong": "Single Family",
+        "roof": "Composition Shingle",
+        "saleDate": null,
+        "saleType": "Fair Market",
+        "status": "Active",
+        "statusDate": "2023-09-16",
+        "statusPrice": 559900,
+        "style": "Modern",
+        "unfinishedBasementSize": null,
+        "units": null,
+        "view": null,
+        "zoningCode": null,
+        "zoningType": null
+      }
+    ],
+    "sales": [
+      {
+        "address": {
+          "city": "Lakewood",
+          "state": "CO",
+          "street": "5310 W 4th Ave",
+          "zipcode": "80226"
+        },
+        "apn": "063476",
+        "basementSize": null,
+        "bath": null,
+        "bathFull": 2,
+        "bathHalf": null,
+        "bed": 4,
+        "built": 1956,
+        "clearRank": 1,
+        "compContext": "SALE",
+        "cooling": "Central",
+        "countyLandUse": null,
+        "dataSource": "MLS",
+        "daysOnMarket": 292,
+        "distanceToSubject": 0.38845766824471,
+        "fireplace": null,
+        "foundation": null,
+        "garageCount": 2,
+        "garageType": "Attached Garage",
+        "geo": {
+          "accuracyCode": "PARCEL",
+          "latitude": 39.722886,
+          "longitude": -105.055345,
+          "source": "DIGITALMAP"
+        },
+        "gla": 2083,
+        "heating": "Forced air unit",
+        "hoaAmount": null,
+        "hoaName": null,
+        "hoaPhoneNumber": null,
+        "isUserSupplied": false,
+        "levels": null,
+        "listDate": "2022-12-02",
+        "listTypeName": "SALE",
+        "listingId": 226740305,
+        "lotSize": "6153",
+        "mlsCommentary": "Totally UPDATED four bedroom two bath ranch home with large finished basement. Situated in an up and coming neighborhood that is only a few minutes from DOWNTOWN Denver, couple minutes to BELMAR and only a LESS THAN A MILE distance to light rail. SELLER WILL BE RE-LANDSCAPING THE FRONT YARD. PLEASE CALL THE AGENT TO DISCUSS DETAILS! OPEN floor plan offering three distinct living areas. ASK ME HOW TO BUY THIS HOME FOR NO MONEY DOWN! New RED OAK WOOD floors (stained warm gray). Kitchen has finished (large pantry), NEW samsung s/s appliances, gorgeous granite counters, eye popping chef sink and new SHAKER cabinets. High grade carpeting in basement and bedrooms. Fully updated bathrooms w/ new tile, vanities and flooring. Some other updates include NEW double pane windows, a/c, furnace AND REBUILT fence in front yard. Plenty of storage in large FINISHED tandem 2-CAR garage (drywalled)! Large fenced in back yard. Roof less than 5 years old. Solar panels provide (huge savings on electric bill) call me for details. Schedule a private showing now! Will go fast. Perfect to buy as an investment and rent out. PRICED TO SELL!",
+        "mlsName": "RE Colorado MLS",
+        "mlsNumber": "REC8238274",
+        "photos": {
+          "insertedDate": null,
+          "listingId": 226740305,
+          "mlsBoardKey": null,
+          "mlsId": null,
+          "photoResult": null,
+          "totalPhotoCount": 0
+        },
+        "pool": null,
+        "pricePerSquareFoot": 259,
+        "propertyType": "SFR",
+        "propertyTypeLong": "Single Family",
+        "roof": null,
+        "saleDate": "2023-09-20",
+        "saleType": "Fair Market",
+        "status": "Sale",
+        "statusDate": "2023-09-20",
+        "statusPrice": 540000,
+        "style": null,
+        "unfinishedBasementSize": null,
+        "units": null,
+        "view": null,
+        "zoningCode": null,
+        "zoningType": null
+      }
+    ],
+    "selected": []
+  },
+  "endpoint": "clearprop",
+  "market": {
+    "alternateModelResults": {
+      "direction": "DEGRADING",
+      "geographyLevel": "ZIP",
+      "halfYearOverHalfYear": -0.019,
+      "hpi": [
+        {
+          "endDate": "2023-10-30",
+          "startDate": "2023-07-01",
+          "value": 282.791327913279
+        }
+      ],
+      "model": "PPSF",
+      "priceTier": "MID",
+      "quarterOverQuarter": -0.0812,
+      "yearOverYear": -0.021
+    },
+    "hdiVersion": null,
+    "preferredModelResults": {
+      "direction": "IMPROVING",
+      "forecastHPI": [
+        {
+          "endDate": "2024-01-30",
+          "startDate": "2023-10-31",
+          "value": 96.25659
+        }
+      ],
+      "forecastPercent": [
+        {
+          "endDate": "2024-01-30",
+          "startDate": "2023-10-31",
+          "value": 0.0094
+        }
+      ],
+      "geographyLevel": "ZIP",
+      "halfYearOverHalfYear": -0.0069,
+      "hpi": [
+        {
+          "endDate": "2023-10-30",
+          "startDate": "2023-07-01",
+          "value": 95.3571343208028
+        }
+      ],
+      "model": "REPEAT_SALES",
+      "nationalComparison": {
+        "geographyLevel": "NATION",
+        "hpi": [
+          {
+            "endDate": "2023-10-30",
+            "startDate": "2023-07-01",
+            "value": 106.80342
+          }
+        ]
+      },
+      "priceTier": "MID",
+      "quarterOverQuarter": 0.0426,
+      "stateRegionComparison": {
+        "geographyLevel": "STATE",
+        "hpi": [
+          {
+            "endDate": "2023-10-30",
+            "startDate": "2023-07-01",
+            "value": 98.3309344281319
+          }
+        ]
+      },
+      "yearOverYear": 0.0203
+    }
+  },
+  "orderEffectiveDate": "2023-10-30",
+  "orderId": "a1624307-abec-4ad7-bc25-509a43111651",
+  "property": {
+    "apn": "061008",
+    "county": "Jefferson",
+    "customerProvidedAddress": {
+      "city": "LAKEWOOD",
+      "state": "CO",
+      "street": "13 S AMES ST",
+      "zipcode": "80226"
+    },
+    "fips": "08059",
+    "geo": {
+      "accuracyCode": "PARCEL",
+      "latitude": 39.717272,
+      "longitude": -105.054786,
+      "source": "DIGITALMAP"
+    },
+    "pid": "280049672",
+    "standardizedAddress": {
+      "city": "Lakewood",
+      "state": "CO",
+      "street": "13 S Ames St",
+      "zipcode": "80226"
+    }
+  },
+  "responseTimestamp": "2024-04-03T16:19:29.260Z",
+  "subject": {
+    "activity": {
+      "listingHistory": [
+        {
+          "listingActivity": [
+            {
+              "agentName": "Robert Balentine",
+              "brokerageName": "Resident Realty South Metro",
+              "saleType": "Unknown",
+              "status": "Sale",
+              "statusDate": "2022-09-07",
+              "statusPrice": 595000
+            },
+            {
+              "agentName": "Robert Balentine",
+              "brokerageName": "Resident Realty South Metro",
+              "saleType": "Unknown",
+              "status": "Pending",
+              "statusDate": "2022-08-10",
+              "statusPrice": 599000
+            },
+            {
+              "agentName": "Robert Balentine",
+              "brokerageName": "Resident Realty South Metro",
+              "saleType": "Unknown",
+              "status": "Active",
+              "statusDate": "2022-07-26",
+              "statusPrice": 599000
+            },
+            {
+              "agentName": "Robert Balentine",
+              "brokerageName": "Resident Realty South Metro",
+              "saleType": "Unknown",
+              "status": "Active",
+              "statusDate": "2022-07-21",
+              "statusPrice": 615000
+            },
+            {
+              "agentName": "Robert Balentine",
+              "brokerageName": "Resident Realty South Metro",
+              "saleType": "Unknown",
+              "status": "Active",
+              "statusDate": "2022-07-07",
+              "statusPrice": 630000
+            }
+          ],
+          "listingId": 190934198,
+          "mlsName": null,
+          "mlsNumber": "4492134"
+        },
+        {
+          "listingActivity": [
+            {
+              "agentName": null,
+              "brokerageName": null,
+              "saleType": "Fair Market",
+              "status": "Sale",
+              "statusDate": "2022-09-07",
+              "statusPrice": 595000
+            },
+            {
+              "agentName": null,
+              "brokerageName": null,
+              "saleType": "Fair Market",
+              "status": "Active",
+              "statusDate": "2022-07-07",
+              "statusPrice": 630000
+            }
+          ],
+          "listingId": 224866924,
+          "mlsName": "IRES MLS",
+          "mlsNumber": "4492134"
+        },
+        {
+          "listingActivity": [
+            {
+              "agentName": "Robert Balentine",
+              "brokerageName": "Resident Realty South Metro",
+              "saleType": "Fair Market",
+              "status": "Sale",
+              "statusDate": "2022-09-07",
+              "statusPrice": 595000
+            },
+            {
+              "agentName": "Robert Balentine",
+              "brokerageName": "Resident Realty South Metro",
+              "saleType": "Fair Market",
+              "status": "Active",
+              "statusDate": "2022-07-07",
+              "statusPrice": 630000
+            }
+          ],
+          "listingId": 226104454,
+          "mlsName": "RE Colorado MLS",
+          "mlsNumber": "REC4492134"
+        }
+      ],
+      "publicRecordsHistory": {
+        "ownerHistory": [
+          {
+            "_id": "2960564693",
+            "assessedYear": 2022,
+            "owner": "VINCENT BESTE",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "2927360345",
+            "assessedYear": 2021,
+            "owner": "VINCENT BESTE",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "2796787493",
+            "assessedYear": 2021,
+            "owner": "VINCENT BESTE",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "2721291432",
+            "assessedYear": 2021,
+            "owner": "TODD J WEBER",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "2591752303",
+            "assessedYear": 2020,
+            "owner": "TODD J WEBER",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "2341606048",
+            "assessedYear": 2020,
+            "owner": "TODD JERRY WEBER",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "1994637371",
+            "assessedYear": 2020,
+            "owner": "TODD JERRY WEBER",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "1985194167",
+            "assessedYear": 2019,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "1892037163",
+            "assessedYear": 2019,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "1704071450",
+            "assessedYear": 2019,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "1650846134",
+            "assessedYear": 2018,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "1433231390",
+            "assessedYear": 2018,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "1346220397",
+            "assessedYear": 2017,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "1102411644",
+            "assessedYear": 2017,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "1043325246",
+            "assessedYear": 2016,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "856007165",
+            "assessedYear": 2016,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "825575145",
+            "assessedYear": 2015,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "625399252",
+            "assessedYear": 2015,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "557240551",
+            "assessedYear": 2014,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "409606358",
+            "assessedYear": 2014,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "369598708",
+            "assessedYear": 2013,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          },
+          {
+            "_id": "294124775",
+            "assessedYear": 2012,
+            "owner": "WEBER,TODD JERRY",
+            "ownerOccupied": "1",
+            "ownerSource": null,
+            "vesting": null
+          }
+        ],
+        "taxHistory": [
+          {
+            "_id": "2960564693",
+            "assessedImprovement": 15310,
+            "assessedLand": 13045,
+            "assessedTotal": 28355,
+            "assessedYear": 2022,
+            "homeownerExemptions": null,
+            "marketImprovement": 220287,
+            "marketLand": 187704,
+            "marketTotal": 407991,
+            "taxAmount": 2814.34,
+            "taxYear": 2022
+          },
+          {
+            "_id": "2927360345",
+            "assessedImprovement": 15751,
+            "assessedLand": 13421,
+            "assessedTotal": 29172,
+            "assessedYear": 2021,
+            "homeownerExemptions": null,
+            "marketImprovement": 220287,
+            "marketLand": 187704,
+            "marketTotal": 407991,
+            "taxAmount": 2814.34,
+            "taxYear": 2022
+          },
+          {
+            "_id": "2796787493",
+            "assessedImprovement": 15751,
+            "assessedLand": 13421,
+            "assessedTotal": 29172,
+            "assessedYear": 2021,
+            "homeownerExemptions": null,
+            "marketImprovement": 220287,
+            "marketLand": 187704,
+            "marketTotal": 407991,
+            "taxAmount": 2857.56,
+            "taxYear": 2021
+          },
+          {
+            "_id": "2721291432",
+            "assessedImprovement": 15751,
+            "assessedLand": 13421,
+            "assessedTotal": 29172,
+            "assessedYear": 2021,
+            "homeownerExemptions": null,
+            "marketImprovement": 220287,
+            "marketLand": 187704,
+            "marketTotal": 407991,
+            "taxAmount": 2857.56,
+            "taxYear": 2021
+          },
+          {
+            "_id": "2591752303",
+            "assessedImprovement": 14969,
+            "assessedLand": 11352,
+            "assessedTotal": 26321,
+            "assessedYear": 2020,
+            "homeownerExemptions": null,
+            "marketImprovement": 209350,
+            "marketLand": 158775,
+            "marketTotal": 368125,
+            "taxAmount": 2857.56,
+            "taxYear": 2021
+          },
+          {
+            "_id": "2341606048",
+            "assessedImprovement": 14969,
+            "assessedLand": 11352,
+            "assessedTotal": 26321,
+            "assessedYear": 2020,
+            "homeownerExemptions": null,
+            "marketImprovement": 209350,
+            "marketLand": 158775,
+            "marketTotal": 368125,
+            "taxAmount": 2567.72,
+            "taxYear": 2020
+          },
+          {
+            "_id": "1994637371",
+            "assessedImprovement": 14969,
+            "assessedLand": 11352,
+            "assessedTotal": 26321,
+            "assessedYear": 2020,
+            "homeownerExemptions": null,
+            "marketImprovement": 209350,
+            "marketLand": 158775,
+            "marketTotal": 368125,
+            "taxAmount": 2536,
+            "taxYear": 2019
+          },
+          {
+            "_id": "1985194167",
+            "assessedImprovement": 14969,
+            "assessedLand": 11352,
+            "assessedTotal": 26321,
+            "assessedYear": 2019,
+            "homeownerExemptions": null,
+            "marketImprovement": 209350,
+            "marketLand": 158775,
+            "marketTotal": 368125,
+            "taxAmount": 2536,
+            "taxYear": 2019
+          },
+          {
+            "_id": "1892037163",
+            "assessedImprovement": 14969,
+            "assessedLand": 11352,
+            "assessedTotal": 26321,
+            "assessedYear": 2019,
+            "homeownerExemptions": null,
+            "marketImprovement": 209350,
+            "marketLand": 158775,
+            "marketTotal": 368125,
+            "taxAmount": 2315,
+            "taxYear": 2018
+          },
+          {
+            "_id": "1704071450",
+            "assessedImprovement": 15073,
+            "assessedLand": 11432,
+            "assessedTotal": 26505,
+            "assessedYear": 2019,
+            "homeownerExemptions": null,
+            "marketImprovement": 219135,
+            "marketLand": 104296,
+            "marketTotal": 323431,
+            "taxAmount": 2315,
+            "taxYear": 2018
+          },
+          {
+            "_id": "1650846134",
+            "assessedImprovement": 15778,
+            "assessedLand": 7509,
+            "assessedTotal": 23287,
+            "assessedYear": 2018,
+            "homeownerExemptions": null,
+            "marketImprovement": 219135,
+            "marketLand": 104296,
+            "marketTotal": 323431,
+            "taxAmount": 2315,
+            "taxYear": 2018
+          },
+          {
+            "_id": "1433231390",
+            "assessedImprovement": 15778,
+            "assessedLand": 7509,
+            "assessedTotal": 23287,
+            "assessedYear": 2018,
+            "homeownerExemptions": null,
+            "marketImprovement": 219135,
+            "marketLand": 104296,
+            "marketTotal": 323431,
+            "taxAmount": 2054.44,
+            "taxYear": 2017
+          },
+          {
+            "_id": "1346220397",
+            "assessedImprovement": 15778,
+            "assessedLand": 7509,
+            "assessedTotal": 23287,
+            "assessedYear": 2017,
+            "homeownerExemptions": null,
+            "marketImprovement": 219135,
+            "marketLand": 104296,
+            "marketTotal": 323431,
+            "taxAmount": 2054.44,
+            "taxYear": 2017
+          },
+          {
+            "_id": "1102411644",
+            "assessedImprovement": 17443,
+            "assessedLand": 8302,
+            "assessedTotal": 25745,
+            "assessedYear": 2017,
+            "homeownerExemptions": null,
+            "marketImprovement": 178500,
+            "marketLand": 79190,
+            "marketTotal": 257690,
+            "taxAmount": 1929.38,
+            "taxYear": 2016
+          },
+          {
+            "_id": "1043325246",
+            "assessedImprovement": 14209,
+            "assessedLand": 6304,
+            "assessedTotal": 20513,
+            "assessedYear": 2016,
+            "homeownerExemptions": null,
+            "marketImprovement": 178500,
+            "marketLand": 79190,
+            "marketTotal": 257690,
+            "taxAmount": 1929.38,
+            "taxYear": 2016
+          },
+          {
+            "_id": "856007165",
+            "assessedImprovement": 14209,
+            "assessedLand": 6304,
+            "assessedTotal": 20513,
+            "assessedYear": 2016,
+            "homeownerExemptions": null,
+            "marketImprovement": 178500,
+            "marketLand": 79190,
+            "marketTotal": 257690,
+            "taxAmount": 1946.48,
+            "taxYear": 2016
+          },
+          {
+            "_id": "825575145",
+            "assessedImprovement": 14209,
+            "assessedLand": 6304,
+            "assessedTotal": 20513,
+            "assessedYear": 2015,
+            "homeownerExemptions": null,
+            "marketImprovement": 178500,
+            "marketLand": 79190,
+            "marketTotal": 257690,
+            "taxAmount": 1946.48,
+            "taxYear": 2015
+          },
+          {
+            "_id": "625399252",
+            "assessedImprovement": 14209,
+            "assessedLand": 6304,
+            "assessedTotal": 20513,
+            "assessedYear": 2015,
+            "homeownerExemptions": null,
+            "marketImprovement": 133100,
+            "marketLand": 67200,
+            "marketTotal": 200300,
+            "taxAmount": 1626.56,
+            "taxYear": 2014
+          },
+          {
+            "_id": "557240551",
+            "assessedImprovement": 10595,
+            "assessedLand": 5349,
+            "assessedTotal": 15944,
+            "assessedYear": 2014,
+            "homeownerExemptions": null,
+            "marketImprovement": 133100,
+            "marketLand": 67200,
+            "marketTotal": 200300,
+            "taxAmount": 1626.56,
+            "taxYear": 2014
+          },
+          {
+            "_id": "409606358",
+            "assessedImprovement": 10595,
+            "assessedLand": 5349,
+            "assessedTotal": 15944,
+            "assessedYear": 2014,
+            "homeownerExemptions": null,
+            "marketImprovement": 133100,
+            "marketLand": 67200,
+            "marketTotal": 200300,
+            "taxAmount": 1629.96,
+            "taxYear": 2013
+          },
+          {
+            "_id": "369598708",
+            "assessedImprovement": 10595,
+            "assessedLand": 5349,
+            "assessedTotal": 15944,
+            "assessedYear": 2013,
+            "homeownerExemptions": null,
+            "marketImprovement": 133100,
+            "marketLand": 67200,
+            "marketTotal": 200300,
+            "taxAmount": 1629.96,
+            "taxYear": 2013
+          },
+          {
+            "_id": "294124775",
+            "assessedImprovement": 11669,
+            "assessedLand": 5094,
+            "assessedTotal": 16763,
+            "assessedYear": 2012,
+            "homeownerExemptions": null,
+            "marketImprovement": 146600,
+            "marketLand": 64000,
+            "marketTotal": 210600,
+            "taxAmount": 1694.22,
+            "taxYear": 2012
+          }
+        ],
+        "transferHistory": [
+          {
+            "_id": "570445266",
+            "buyerBorrowerFullName": "VINCENT BESTE",
+            "recordType": "Deed",
+            "recorderAmount": 595000,
+            "recorderBookNumber": null,
+            "recorderDate": "2022-09-07",
+            "recorderDocumentNumber": "0000085397",
+            "recorderDocumentTypeName": null,
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "TODD JERRY WEBER",
+            "transactionType": "Resale"
+          },
+          {
+            "_id": "570445266",
+            "buyerBorrowerFullName": "VINCENT BESTE",
+            "recordType": "Mortgage",
+            "recorderAmount": 584223,
+            "recorderBookNumber": null,
+            "recorderDate": "2022-09-07",
+            "recorderDocumentNumber": "0000085397",
+            "recorderDocumentTypeName": null,
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "SYNERGY ONE LENDING",
+            "transactionType": "Resale"
+          },
+          {
+            "_id": "570445266",
+            "buyerBorrowerFullName": "VINCENT BESTE",
+            "recordType": "Mortgage",
+            "recorderAmount": 23368,
+            "recorderBookNumber": null,
+            "recorderDate": "2022-09-07",
+            "recorderDocumentNumber": "0000085397",
+            "recorderDocumentTypeName": null,
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "COLORADO HOUSING & FINANCE AUTHORITY",
+            "transactionType": "Resale"
+          },
+          {
+            "_id": "208753270",
+            "buyerBorrowerFullName": "WEBER,TODD J",
+            "recordType": "Mortgage",
+            "recorderAmount": 145000,
+            "recorderBookNumber": null,
+            "recorderDate": "2013-05-08",
+            "recorderDocumentNumber": "0000055048",
+            "recorderDocumentTypeName": "Deed of Trust",
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "AMERIPRO FUNDING INC ",
+            "transactionType": "Refinance or Equity"
+          },
+          {
+            "_id": "208736024",
+            "buyerBorrowerFullName": "WEBER,TODD",
+            "recordType": "Mortgage",
+            "recorderAmount": 115434,
+            "recorderBookNumber": null,
+            "recorderDate": "2009-07-08",
+            "recorderDocumentNumber": "0000067619",
+            "recorderDocumentTypeName": "Deed of Trust",
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "WACHOVIA MORTGAGE FSB ",
+            "transactionType": "Refinance or Equity"
+          },
+          {
+            "_id": "251734541",
+            "buyerBorrowerFullName": "WEBER,TODD J",
+            "recordType": "Mortgage",
+            "recorderAmount": 120000,
+            "recorderBookNumber": null,
+            "recorderDate": "2005-09-08",
+            "recorderDocumentNumber": "0000079239",
+            "recorderDocumentTypeName": "Deed of Trust",
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "WORLD SAVINGS ",
+            "transactionType": "Refinance or Equity"
+          },
+          {
+            "_id": "251733530",
+            "buyerBorrowerFullName": "WEBER,TODD J",
+            "recordType": "Mortgage",
+            "recorderAmount": 109000,
+            "recorderBookNumber": null,
+            "recorderDate": "2005-02-16",
+            "recorderDocumentNumber": "00F2173377",
+            "recorderDocumentTypeName": "Deed of Trust",
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "WORLD SAVINGS ",
+            "transactionType": "Refinance or Equity"
+          },
+          {
+            "_id": "208724366",
+            "buyerBorrowerFullName": "WEBER,TODD J",
+            "recordType": "Mortgage",
+            "recorderAmount": 20000,
+            "recorderBookNumber": null,
+            "recorderDate": "2003-07-28",
+            "recorderDocumentNumber": "00F1818712",
+            "recorderDocumentTypeName": "Deed of Trust",
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "COLORADO STATE EMPLOYEES CU ",
+            "transactionType": "Refinance or Equity"
+          },
+          {
+            "_id": "208716042",
+            "buyerBorrowerFullName": "WEBER,TODD J",
+            "recordType": "Mortgage",
+            "recorderAmount": 97000,
+            "recorderBookNumber": null,
+            "recorderDate": "2003-05-21",
+            "recorderDocumentNumber": "00F1758074",
+            "recorderDocumentTypeName": "Deed of Trust",
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "WORLD SAVINGS BANK ",
+            "transactionType": "Refinance or Equity"
+          },
+          {
+            "_id": "208673726",
+            "buyerBorrowerFullName": "WEBER,TODD J",
+            "recordType": "Mortgage",
+            "recorderAmount": 40000,
+            "recorderBookNumber": null,
+            "recorderDate": "2001-08-03",
+            "recorderDocumentNumber": "00F1291779",
+            "recorderDocumentTypeName": "Deed of Trust",
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "COUNTRYWIDE HOME LOANS INC ",
+            "transactionType": "Refinance or Equity"
+          },
+          {
+            "_id": "125154151",
+            "buyerBorrowerFullName": "WEBER,TODD J",
+            "recordType": "Deed",
+            "recorderAmount": null,
+            "recorderBookNumber": null,
+            "recorderDate": "1999-10-25",
+            "recorderDocumentNumber": "000F967000",
+            "recorderDocumentTypeName": "Quitclaim",
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "PUBLIC SERVICE CO OF COLORADO",
+            "transactionType": "Resale"
+          },
+          {
+            "_id": "208658932",
+            "buyerBorrowerFullName": "WEBER,TODD J",
+            "recordType": "Mortgage",
+            "recorderAmount": 87000,
+            "recorderBookNumber": null,
+            "recorderDate": "1998-10-26",
+            "recorderDocumentNumber": "000F722711",
+            "recorderDocumentTypeName": null,
+            "recorderPageNumber": null,
+            "sellerLenderFullName": "WORLD SAVINGS BANK ",
+            "transactionType": "Refinance or Equity"
+          }
+        ]
+      }
+    },
+    "details": {
+      "listings": [
+        {
+          "address": {
+            "city": "Lakewood",
+            "state": "CO",
+            "street": "13 S Ames St",
+            "zipcode": "80226"
+          },
+          "apn": "061008",
+          "assessedYear": null,
+          "basementSize": null,
+          "bath": null,
+          "bathFull": 2,
+          "bathHalf": 1,
+          "bed": 4,
+          "built": 1957,
+          "cooling": "Evaporative Cooler",
+          "countyLandUse": null,
+          "countyLegalDescription": null,
+          "daysOnMarket": 62,
+          "fipsCode": "08059",
+          "fireplace": "Yes (fireplace exists)",
+          "foundation": "Slab",
+          "garageCount": 5,
+          "garageType": "Attached Garage",
+          "gla": 2262,
+          "heating": "Forced air unit",
+          "hoaAmount": null,
+          "hoaFeeFrequency": null,
+          "hoaName": null,
+          "hoaPhoneNumber": null,
+          "legalLotId": null,
+          "legalSubdivisionName": null,
+          "levels": null,
+          "listDate": "2022-07-07",
+          "listPrice": 599000,
+          "listingId": 190934198,
+          "lotSize": "10890",
+          "mlsCommentary": "Welcome home to this beautiful 4 bed,3 bath brick ranch in Lakewood Terrace. This bright home features an expansive living room with large,updated windows,tons of natural light,and a cozy pellet stove for cooler evenings. The impressive eat-in kitchen with updated granite counters tops,beautiful wood cabinets,pristine tile and backsplash is superb for entertaining. The main floor has two bedrooms; an expansive primary bedroom with plenty of space for additional storage,and a 2nd bedroom with sliding door closet. The main floor full bathroom is wide and roomy with stylish tile and the 2nd bath (powder room) is also updated and convenient. The fully finished basement has 2 additional large bedrooms with an updated ¾ bath,and relaxing oversized family room with brand new carpet,fresh paint,and completely updated with nice finishes! Updated electric service along with evaporative cooling and ceiling fans add to the value and efficiency of this lovely home. The backyard boasts a covered concrete patio,a large yard with plenty of room for gardening,and mature trees that offer lots of shade. In addition to the one car attached garage,an oversized 4 car detached garage provides ample storage for vehicles with extra space for a workshop / studio. Located just blocks from Belmar shopping,restaurants,and minutes from O’Kane Park,Highway 6,I70,I25 and only blocks from light rail with service to downtown Denver,DIA,and more! Quick access to Golden,Evergreen or your favorite mountain resort!",
+          "mlsName": null,
+          "mlsNumber": "4492134",
+          "photos": {
+            "insertedDate": "2022-07-28T00:13:39Z",
+            "listingId": 190934198,
+            "mlsBoardKey": "RECCO",
+            "mlsId": "4492134",
+            "photoResult": [
+              {
+                "imageDescription": "Extended 4 Car Heated Garage",
+                "imageHash": "80bcb668069142733f91603400af91bf",
+                "imageMimeType": "image/jpeg",
+                "imageOrderId": 31,
+                "imageResolution": {
+                  "height": 1066,
+                  "width": 1600
+                },
+                "imageSize": 266590,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/891439091/80bcb668069142733f91603400af91bf.jpeg?Expires=1717284032&Signature=Sz5TQmR1t1bp06jRmmvlnxwJUKTey4JPZ4j5QHVpWiS-RwHKo9OitLsAYznFkFD1mZBo1p0cXlue16CVX46r9JBs03WIOwUN3sqFLq9~nIHnerX72b790DuZpLnEYkQw9e3QZm0grc5DmKox1eI3GIiIw6rG4T2fOhbX8gzXaVmMA2rGboafkZC4LPr7pako4Zk15VtLl3cy8CfdUWIM4ME7FoHm9gAey-bDZ6F-Lye6Y1QhqNAd1kPWOKW~TmwMd5QC2h6cf0TfPHhfxecwNgFHpXHwJkywcvUWinUtYofP-DB2zOLOvcz1nrkq4V2zHy0fFK3EQrGji~B5AlfVTA__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "Extended 4 Car Heated  Garage",
+                "imageHash": "e9271ed7cfb8d37f776efb9cd591122f",
+                "imageMimeType": "image/jpeg",
+                "imageOrderId": 32,
+                "imageResolution": {
+                  "height": 1066,
+                  "width": 1600
+                },
+                "imageSize": 269976,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/891439091/e9271ed7cfb8d37f776efb9cd591122f.jpeg?Expires=1717284032&Signature=KDvxvB2L5-Q~7EDj~5XV~kKTqAMEDtRtX7SCzvS52Mfa~2um8wIhEMXriO0A8ytgX~SGSP6xtKjEchHtsEyBJXFxYV-WTe8UmyBHqKmx7jaKRC5N9ntTkYpg7UZsxM9-ohFMiJ70RO6v36K3yw-081YBJGN5ELDHdnSzK1WpKKKd~bm8EghQSy8oGDAi6yfjOlj7D7caxvkaIEI5kNHHf6OyKNkjNtzEFTbK81EqVDCqihEavFnu0sY09dGO2UCEEp5T1u4Twvnl1u5Yvyp8C3g7YBfsgiCuDQfzTKsgmRs7HmwKoSvuLKWE7CmyIj0AM3uzzEBkZ9Az5gEHoQeZ1A__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "Extended 4 Car Heated Garage",
+                "imageHash": "54362229f20cc5de60a91126b0ac57bf",
+                "imageMimeType": "image/jpeg",
+                "imageOrderId": 33,
+                "imageResolution": {
+                  "height": 1066,
+                  "width": 1600
+                },
+                "imageSize": 340251,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/891439091/54362229f20cc5de60a91126b0ac57bf.jpeg?Expires=1717284032&Signature=UzQ6sFzsQUMPfguq4FEmfenJx2xldiaVRA~3FAhz3JxS1cpopaf3iui6rjxEjB2y1E8pgQlV5SoJJS69OloSK43lSBjKxUMr~bRTtvzX1wvqi7eJjaPh-vfczZzCnteWH9gJzU9ElC0eFrdQ2~MgwqvjkLe5dbcfTlDU~3g-W2E036CRuDeQFk-BkaeLKtfVhD3W7TZo~~oKHQnmjmz0Mv056p1iR9jQrtjDvLM3fuyeg~rFOgHr~dR5Uwys6XDui43rRHyjeuXbjPlDwdOqgqwR6Mt~sZeHaxzdv-YO8D~lOVh9dB7p1zf2E1qg-nJMDq1pP3cV~qNGK356bSRIQQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              }
+            ],
+            "totalPhotoCount": 3
+          },
+          "pool": null,
+          "pricePerSquareFoot": 263,
+          "propertySubTypeName": "General Single Family",
+          "propertyType": "Single Family",
+          "propertyTypeLong": "Single Family",
+          "propertyTypeShortName": "SFR",
+          "roof": "Composition Shingle",
+          "saleDate": "2022-09-07",
+          "salePrice": 595000,
+          "saleType": "Unknown",
+          "status": "Sale",
+          "statusDate": "2022-09-07",
+          "statusPrice": 595000,
+          "style": "Other",
+          "unfinishedBasementSize": null,
+          "units": null,
+          "view": null,
+          "zoningCode": null,
+          "zoningType": null
+        },
+        {
+          "address": {
+            "city": "Lakewood",
+            "state": "CO",
+            "street": "13 S Ames St",
+            "zipcode": "80226"
+          },
+          "apn": "061008",
+          "assessedYear": null,
+          "basementSize": null,
+          "bath": null,
+          "bathFull": 1,
+          "bathHalf": 1,
+          "bed": 4,
+          "built": 1957,
+          "cooling": "Evaporative Cooler",
+          "countyLandUse": null,
+          "countyLegalDescription": null,
+          "daysOnMarket": 62,
+          "fipsCode": "08059",
+          "fireplace": "Yes (fireplace exists)",
+          "foundation": "Slab",
+          "garageCount": 5,
+          "garageType": "Attached Garage",
+          "gla": null,
+          "heating": "Forced air unit",
+          "hoaAmount": null,
+          "hoaFeeFrequency": null,
+          "hoaName": null,
+          "hoaPhoneNumber": null,
+          "legalLotId": null,
+          "legalSubdivisionName": null,
+          "levels": 1,
+          "listDate": "2022-07-07",
+          "listPrice": 630000,
+          "listingId": 224866924,
+          "lotSize": "0",
+          "mlsCommentary": "Welcome home to this beautiful 4 bed,3 bath brick ranch in Lakewood Terrace. This bright home features an expansive living room with large,updated windows,tons of natural light,and a cozy pellet stove for cooler evenings. The impressive eat-in kitchen with updated granite counters tops,beautiful wood cabinets,pristine tile and backsplash is superb for entertaining. The main floor has two bedrooms; an expansive primary bedroom with plenty of space for additional storage,and a 2nd bedroom with sliding door closet. The main floor full bathroom is wide and roomy with stylish tile and the 2nd bath (powder room) is also updated and convenient. The fully finished basement has 2 additional large bedrooms with an updated 3/4 bath,and relaxing oversized family room with brand new carpet,fresh paint,and completely updated with nice finishes! Updated electric service along with evaporative cooling and ceiling fans add to the value and efficiency of this lovely home. The backyard boasts a covered concrete patio,a large yard with plenty of room for gardening,and mature trees that offer lots of shade. In addition to the one car attached garage,an oversized 4 car detached garage provides ample storage for vehicles with extra space for a workshop / studio. Located just blocks from Belmar shopping,restaurants,and minutes from O'Kane Park,Highway 6,I70,I25 and only blocks from light rail with service to downtown Denver,DIA,and more! Quick access to Golden,Evergreen or your favorite mountain resort!",
+          "mlsName": "IRES MLS",
+          "mlsNumber": "4492134",
+          "photos": {
+            "insertedDate": "2023-10-16T03:15:51Z",
+            "listingId": 224866924,
+            "mlsBoardKey": "IRESMLSCO",
+            "mlsId": "4492134",
+            "photoResult": [
+              {
+                "imageDescription": "",
+                "imageHash": "4efbd92d3361058a61c2cecf70061fae",
+                "imageMimeType": "Photo",
+                "imageOrderId": 1,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 1117710,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/4efbd92d3361058a61c2cecf70061fae.jpeg?Expires=1717284032&Signature=hzE29eC2fftGS8rZPrKdy-ze4VZDN5ojIDGE1Dy8FUhRrvLR5~WF3iE8RqqV497eHmimHovKGaWH2mJ9eskrHXEpf7KHWguMe-s-pLASs-tCTkxSL93E5kBqsW5dQax84MNXO3EHpgdDSNhVhnOcR1uOAFHecRwDsI8yHcoHjzv8K-iTCrTxRKiORxnlUOPXG3dtlr03359mbSROQAls86p~XvGwFxcDnnA3xd~qm0PQ0Xx~FlR-~scKc3P-kPHxPVdHKkqL7Idtth~hWfUBoYQVO4OwGl~yDyFn9OvUhWB03YOU5QcHCpdW2KET8BGHwTugkklj1yg3wWJxjE8~VQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "00e1532b1eaa77d72325d80368dcadca",
+                "imageMimeType": "Photo",
+                "imageOrderId": 2,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 989064,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/00e1532b1eaa77d72325d80368dcadca.jpeg?Expires=1717284032&Signature=agqHN5Hy8D1Jpc6zTPDf-t~vFIjsb2v9ZcVCFAFPz~dOdWsKCixwIZVLowOUCDnluszwL9N-4N-5PaFI0OXWYvctyutcr3pI3Ck7nxWrEC20Abb7uIFPv09I38ab4EZS65Etz8lx~xJRdLvMJMWtZcFYwzx8wZtDKT3ISE6bEjGp9XZfB5umybOxCIqiRLs6yzPdZbPlMTwmZoGA94A4jrW9vChxjy7~fcKA37nOtqR4V6zDS1FywLx5FkrX7QdLoAfqJnLA~ljt~c4ZYsI81~vrMoNEY2y83FYMzXIC-Vg85DfDUTZhnOGZ5LXe4V4EZdi~1X6ISdhwx6FZEWBCBQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "71b467f522241da91908b385201685f6",
+                "imageMimeType": "Photo",
+                "imageOrderId": 3,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 1104872,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/71b467f522241da91908b385201685f6.jpeg?Expires=1717284032&Signature=WK5hi37K6X7jPIJeqzrtTFbvap3xHZ5IGIXO52LEkMXSEaiuBKZgiHyfjfI0hwiSnz5oWHHTpTNRyZ9dbLSXZh~ZrbgdhtbFBNoxdyuB9mTx2fJ-MtYkChWQf1-fTAUyjdZ5btsI73eS9SsMqMvOyFd22SK0oZ~yI2bngwmTS-0CWqdFhiz3qG8APTeXBejH7BVvAs6qr5IqCM36NN6IRqk5q0h8P3y54lysl692EQczjkYeQaw~NLiowYbsBXWb9IIz6HRtp3EVe~MU38ggJFd7ruDwmbUIEAfG9Q8PPV~7MrlEQ2GMX0iveMcgVmqUIcdTpc4Om0yAwAv7Ettwmg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "6c078a070ef10c905736abf2eccc72be",
+                "imageMimeType": "Photo",
+                "imageOrderId": 4,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 792129,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/6c078a070ef10c905736abf2eccc72be.jpeg?Expires=1717284032&Signature=REdVHVxFsLpZgCu0FBSbYmOYbaJ~3Ra2wxYW-moXgISa~MGsIelM17YWqDSecvWHu8dS~gV~7Ty9vdaWU5Xk~di0Z0tZy7vzVfukNODVWB8RodU4TcWmO8xJOxi~sBuOyXpNkXdZuYB0myRkBJJ22gfTRs2uGJtPgRGop3JE8rL1~H7UmqkJoeLvxzJPY5Nm9loxBmATW6B~5rjyp3CEPG4TBIjjpvQs4245n~tqFacNywpSrDuHNtVQsPaDLI83rBWD0bncT50xNDiZIc1uEZt7Ed8OVxv3F5zAWni~a-8v593VvUPMzWhJFJzN6Y40TJtyGzDd7-TW09v-cvtXgw__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "213c91de2874c0fbc277234adccc6fbe",
+                "imageMimeType": "Photo",
+                "imageOrderId": 5,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 515364,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/213c91de2874c0fbc277234adccc6fbe.jpeg?Expires=1717284032&Signature=Ti12zZrrB-d3JoS~JRaROgiMGyij~-iZmJYZOOMLvhZwhdcTc7zacQCKtrPrNlUJu8mfnoCB2zfF6Nw0hpg70o1IMVeA9NzAlJxDHr2Xjhd7Sa-K-JADByn~iG8Q8EyVU93rAltp-ENG7-Z0uhs3qRcFSa2TRkLEnI4Cc8ADyYL0bsF61KPQM9PA-PbM~sYfLmXbRngl4QlE~iZUB7wIzNgEKNW5kbAT8CfaE3xjyQFtXR6MQEsWD2bQ7D~m~LUxmhxaiKjp5VvIN7WVQbd0TRsacJQ0dUK6Wf1sV~Ogb4p~v6ieCcJWh9ANaJBzafBiguFLX9gWmFWziFEVXpQuzQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "a30475a04bed04f29b25386f44cdbb5f",
+                "imageMimeType": "Photo",
+                "imageOrderId": 6,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 569251,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/a30475a04bed04f29b25386f44cdbb5f.jpeg?Expires=1717284032&Signature=Sulu3CBSF-jY0a-kZS4x2GrfCU3B4ZO8FFFHwMOzXZDqZCw7CfqUpQmw67TI9FuLeJpzKMdih7H8diYYd3l66s67zaASemXIjOobCk~9jGybWgByxWiuJU2rw79sV8uORyU0ijX7kIWnef9x0QJVA6pwOX~sBXqdbgs7GxEw2f-J6MwWegPLoQmZ~1n0ZZC1JawYWkzaWOrh~8h~h6SDLhG7MrgeBlZpdcK1ypa9FS~aYjIH3NgoVvd8i78PJhF6Af-CxlhGjXFbrMITIDqmNnOIXfwfoKPYsuCM9VtVerlSZSJJ3cCcvJ3ptAcUOqlICyT4eisFBRa76HAguBbcKQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "d0863495a3ff52ba58a1aa0cee11a257",
+                "imageMimeType": "Photo",
+                "imageOrderId": 7,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 527622,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/d0863495a3ff52ba58a1aa0cee11a257.jpeg?Expires=1717284032&Signature=OnLBspO4HOEhghk5o4HThvXTTjFMoxa985flGvWrq9aY717bJBos3ZTw-1uqJGV-309stS2f70LM5-I1Si-n-41lMgNuBlLEpKczlnP1dHKLNKCQuTu1IVvxZ4sf6RYlFCalMAoV6NUf1XUVbXiegY~IU4~t50sLEfCrIuyhDc41FfvtN5bIxpnTUQBOnxMrJlI3rtfRtx2UmQM~PBVn~c22VNpvFvb40FcaZqSIpZ~YihPcikKqMxaPj-Gr8wmicdAIga1G5r1huagLgFezSd737GqQcgooLcXqaktWh9hXsdARVksi8kPbG0mxW8HEiD1biuIweCpTDy3XgiJhgA__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "74ecca36fc6220a4d145aa346d92c4c3",
+                "imageMimeType": "Photo",
+                "imageOrderId": 8,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 528506,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/74ecca36fc6220a4d145aa346d92c4c3.jpeg?Expires=1717284032&Signature=FWgAjQ8O3IKKJTF6jUu23924D7AXiAgkrJPFXvQ203pfWZmrZuw0bBwnJK7RVEygVGJuZt3EpusJgKFW~JyWm~4cgYYyerOdUaondKYFOLrPb8M6UOHIWy4vkEF5UzzMCxui0m861OON1v6nlru6UF3N~hOcto7ItQFBrTNSwMy~3F4lTDiBhycFzySsRtGwt2XSnGv7l9Z2sQ9WaXLOZ0HSaB0buKe3k2j1O2nGlk1BZVKz~ErI2SdIQpHOEMBEU2YkFVqMncQbpLsq74kdw0q4pamcy2rjdNVtWNvplvXQqUBc9EtRenEWD3vjW4uBMl~Leab8NexBynV50ZMOtQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "3e5afda943da46c047a5f6f47fca5883",
+                "imageMimeType": "Photo",
+                "imageOrderId": 9,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 455886,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/3e5afda943da46c047a5f6f47fca5883.jpeg?Expires=1717284032&Signature=CJS~9h2tGqD5USkAPCPL5CyV0oFvmyyWYeHaxGEzuwtqn8fSDxdBa6K3zKt5zcjY0pTn9TxPSCDbn9S2frLwDmz9mmPtKBDBXHywIkXncwScbom6Jwkt2WsMuHPvS-KiZGrSoUsyLb-yfc3Bl5b8p3dOeN6slMkFJKF-Cz599Hw0vFXp5JWnhRU0Ty14CfF0yphIBqcVIe-pDzERNm~q0y7dlTLfqTpMPktYhESbHZ97EqiNhcilnPZBzCiERIkTH7SH-KXVLCbjMq6ilQJaih32Vommgu8apD72rRI8bXSKINRos3dBlNf-rjd9Sr0Wfc4N9KqqMlB~XkW8qBjKwg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "338aaa3a369bb4ab237d20a665c5b45f",
+                "imageMimeType": "Photo",
+                "imageOrderId": 10,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 499855,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/338aaa3a369bb4ab237d20a665c5b45f.jpeg?Expires=1717284032&Signature=CBpJA7AwjGaER~IUIDED5Lu0tHizEqLS4c8QUtLVZeRqLtxAcAJzgkmWDCjb~SZ5iBd6h0~2BjH7hlMmMoZ8XxSGU7N86dwzC~lTT6f5Y-UzfBcc~Ro28kG~uHYo-PYGCxA8nCrFL8vOGZyGEwTAkJluBRHfDNpZJoG1~VlBqbzNthZCQ3Uk2pLQSP4WKIqrhny275vMDsooiziBhIjiZiN8VsKw7Me4G-ludoZqD0DUvkCkwe3VKKEz-QNHnlSUIRSLh70CnsapgA4isfNj10UpXpVSOfbR5bJYSLQPn77UZDgRwrtSgQF8JllI7TyAwlISaXSaETqcC6Bysjemdg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "b6dc389acd57913859646a86dbcc44ce",
+                "imageMimeType": "Photo",
+                "imageOrderId": 11,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 431754,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/b6dc389acd57913859646a86dbcc44ce.jpeg?Expires=1717284032&Signature=TzoVHWuPDZEgfgRKDswWU9M21ms0Mold5CFuAM5SF1~zFG6ubXdj5w4MPJ8RHcafFivLKizIALD6NfpOTtNwXOYAmVaphUhf-T5zB1nXb~UJIZ50R2Yjxd5xlE7i85x6dKnZY9OeZOBHJsqzr-bQGuM4CPpjsELwMawwUgu6i8NTb1Q4yft2p82PtB5Bod7RO0EKBDSDfQ4FM8-OhioGFlQQOfqarxDT-n-S01LTessRAw7JWbW-NTYIC9rxRw2tBxGlzkb2dAmqjJGgO9fP2VQS72KPknloxpYHXjq7Sb7ydMEzErOxtMA20Z~FbTrL~DL7yDG5XZ2nCXt6oUlzsA__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "e6658cd3c0ce3ac46021434f4fe76db0",
+                "imageMimeType": "Photo",
+                "imageOrderId": 12,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 520972,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/e6658cd3c0ce3ac46021434f4fe76db0.jpeg?Expires=1717284032&Signature=Z5S~V4ctMuyFIjP6eXKVqlic1CJZ1f4gcE3Gr61G04ikKevuzlArQPMDM5thnqGgiiPm4xm59wlOqfOfOUg0wmUKEAK29xkTGjFXxm9KmfIKtWUCtTb4wRB4WGGbv9DiJ6vuF0sN5~r01WDvV-QErHMBMrvNJo7ZymhecODpdwcEFbdm66SsuylqqLFg7S22Oi5a8ECXJO6CKeUB9iW6EkVN-F69WcAjRSa9vKxUdo-h09X5xASweNTZ9nU58AMC9jiHHlQm1wmWLDOIEZpXMnEBbtnkkL5a-r8J1dmsVSiM8lKTK8Uye8ZeBooMJJNOKgdTkLKUR215EXp56b14Tg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "9c96e65fd60474357ad559f2a224dfa3",
+                "imageMimeType": "Photo",
+                "imageOrderId": 13,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 544506,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/9c96e65fd60474357ad559f2a224dfa3.jpeg?Expires=1717284032&Signature=DTirmldtUnFTrgvImQMKAnwgB~Neyh9N20Qf~KlIEn3ff0wHq-UgREQQseYqJmrxFlYh5yMMT0mS4v0mfzs-c8vKGCl51Udh-JOxS6zLk18POweSxas89wS3v-2BQePQ3pMlRspmSv4TGmDzAa9~E5c8pfJYIkZ3fEJ8GvQ2Vw2o7iTBSEXrWjlLU8h1oyJrAizIC2uPBn1qmBz1NvPc~JHTZmj~kytzK8dlY46de-MfmSPUktvmnqhpfI-sHeVsBijAl2OfO4nMAlKGObSviyozxRwkng6B1AW~rNTuDOFRLJwmb833oQepc-tGF5OoeMSvmCDi3pcszWSkrToiTQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "bd342083f3cfbfd2d0d532eed018a393",
+                "imageMimeType": "Photo",
+                "imageOrderId": 14,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 623508,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/bd342083f3cfbfd2d0d532eed018a393.jpeg?Expires=1717284032&Signature=KU5NzZnVY~Mm5IcvaM00WqXunCPHrpXTSLhsN4OEwYjC2xwGtGJpT2LYNMdYwfaMR8CEpfnBA4S~YYtq8kxhE44ii-6MquTnqadixfkwrKeASJpvWMWRiLiBOqEef4cJzn8cG9MJUS3UzVHXyqY1HHPyIjPv5ChkZZJEDwF0YAPPdRW8AfUeN0JjTX3IKP8iM3AMSMiDtm0~aY3w5hMeaaBpmHd12Q~GOI47He1zbLnzUgcJgr5xfSew4eGbjSAoITcayc6ZAmSYpHdzWwtpU8siHQjdJ0q9o1olbAp0zN8h7YslpuvVSRQpO68dGbwrFyTG5srvVNWqJPktEf3ryw__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "61e7db985ddd573d58bcb0c864dee3f7",
+                "imageMimeType": "Photo",
+                "imageOrderId": 15,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 323908,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/61e7db985ddd573d58bcb0c864dee3f7.jpeg?Expires=1717284032&Signature=bnBHHJJGIgtaBWlH8E5bRvh1DNBasGnfRO1zQ9hYAatkBfAMTivoZNDB5yg85tTDaow~eHhB9rjHRRGpHECEC3onKvPeVDMovADnZO2QAoUO0P2KLuskZmvU3H9ZNbRKd~qGxDOSc~k5w5iJXrBTnkLT1~Rlm~nFY8H7juImATeQWnRrhG-84etJrTBLH30QHWvmm5EEUajv7GFkpMOLu84OzqnyxYmQBmkWy4jZlXc7~F33g4TY0Pty0sHqvEStcEPml8~ErjJqwzir6DOCPvjt1SfdcYF6xt9R7ptrYFEt6gdsR9DiUMvHuG5RpyKOa761U52zBzIoUjyvVvMhNg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "d12abb12a151865d4b81313f4e9d6b9b",
+                "imageMimeType": "Photo",
+                "imageOrderId": 16,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 455602,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/d12abb12a151865d4b81313f4e9d6b9b.jpeg?Expires=1717284032&Signature=b8kaDx5DZfb8fPhkLoUnb4IL84CfMRBDsoRbBjDMB3P6SjCHcTCIsfoASARJs~yRdv3r8LcdLWjr5jyiTnY-mKnCGdMF9tDRsXI~mHkXTc5QTpAlj4YHLopGU4dw3E8LXs5EPn82-~H1m7mmHrIeWWI002FXgf6R~4EuBD7hBg9mn9RkMH2O~WiUbaKHrzoorPkkIKxHnCjlNw7JMO8CcmRg5VdUY~iCjUb-8I1t67zlvOtFKa-GkHLMxggyKd1djLzZZZVJg~6Uwk6eMlbkZx0p6mM2Zjsil9Y5Gcy7hUs~rzOprYQtc6PaqJC0VkrqOqKV3QwZdsUI5gU~F8Dh6Q__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "8ba472b9edfd76eade3b7efb8c1083e9",
+                "imageMimeType": "Photo",
+                "imageOrderId": 17,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 535088,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/8ba472b9edfd76eade3b7efb8c1083e9.jpeg?Expires=1717284032&Signature=aS-11ljCJF7QEIrf4ueg-TspeQRjPLHoZ1n6lksUAkFnxZkRzC-FbUj9Noxpl-AT31w3cSgOM75BRqWoS9HmQWG10355au~blRE2bt315uZ9MMXoOUtw7rxAjwhzbNOjYRV2qA8Ui6UAQgOy7uPAau9F~Qm9LDcjrL-KPfZSOoDUizNc1JuFf5EC0wBZSI7Vd5Sk418mAP-lIzBTXG0l3Ksu8Kr27QoXcfrjjxjskhvULF~yiJeNzLvrnzWNTImuzzSAjtEOH8SEPY8opPhpKMDQerHn9JCY5ZYVpkXYyGr-Y0D00KtWCdrPUhKx0I-c~sNMSzCizF5LrX3CCZrzcw__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "ca965be059465796fc23ac2405500be6",
+                "imageMimeType": "Photo",
+                "imageOrderId": 18,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 470452,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/ca965be059465796fc23ac2405500be6.jpeg?Expires=1717284032&Signature=JYNYMEu6dWtP1-ujWJrXBgVeUhPKOPNIMBCuYvG68y7iNa~Mup0Uf5Y91CbiVVYKMsxnELlVeZQxhRDNJHpMXP5i0B~frn2hAKE13EJTx9RWpKkI3KcNFR2m9ITVcR33BI53UTJ1mVSqJgnInI7X~rKk4WRrXy5kzc2cOTl6iN2E4u8dcuQEA9UboQh4M3TXh2E~Orxx32aVWpyvvgRmfQV1W-lQRHzOh6xRCV6hQDSHWfppVMuKUZRYB5PfY07BXDTEOVzhIQm2co17pdDB-0AfrjqpK3uFdAVfWCD-qmmF1gZJe0CdXv~LotAaeq6lUBTJ4l1SorzhyDErP6mKKw__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "31c3c97539e2887fa51f4c1ede748864",
+                "imageMimeType": "Photo",
+                "imageOrderId": 19,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 438799,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/31c3c97539e2887fa51f4c1ede748864.jpeg?Expires=1717284032&Signature=bWYKaNvG~m5B2-XHdsQcEzCjt4tMsz~KuHQRxHSiBHuS7bOwE6YJL~nvkNrhRZvcuEieVsesDNQ0uFRV3rdjLNM6omnlHEeePTnOcmnHCJ4M0AXdwxfOHgevpLRUwvPJMPdqpw9vkaaMKfFF8d76-4wRJYwdacpD1JbhOaVvbbFfdVL-2eZaBeapC74V51sVRwdw1~6pzPt5g7MUN41LawHkdx~mIWfFhOV7YaKLFgIRouARXMMfb20dhzu1gdzP2FcxX-jjW-A3RAuUKzmuPd-b~jlESWIUrUSnI6mOOamg259FDaLf6TPtIOgsboyHzKKdOQo5DUndphTNIUoxBg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "a4ffc33970a19c2482ec43c9e5d7b208",
+                "imageMimeType": "Photo",
+                "imageOrderId": 20,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 622246,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/a4ffc33970a19c2482ec43c9e5d7b208.jpeg?Expires=1717284032&Signature=RCZeyKg~NY~Ae-9ex4R7VmJpvDYz8g~LwP~z4Ib8Bawagpdi1fPjaZaPwKuaHHks1uqd8gXzf~DVPsiOhfS1fsBqzLWKfpKo0SMx67nlnuKpGFuf9kUqv7UaowA6ebT9Ljm-pVkcpDqh1RYOWx-V5oGyA6qoNz-toug36mwH6TA1XMLJ2sOA0hb0oOFZQmK8iTCuJpt~zzCd4Nh~QV4gBc4Quf1ugxQqndxfqFFYqHF7FL2giKCirNX6F1XGYUztp~8KsXF2Z5WMJ2o16AY1emQC4HQojVph0lw~5y8cB-PbtgwB6glZ7~j98vBkLAvH93UJmSnCV~IUxj7GPLeofw__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "f26089d0c0012ae830ac70bb931fd0ae",
+                "imageMimeType": "Photo",
+                "imageOrderId": 21,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 446089,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/f26089d0c0012ae830ac70bb931fd0ae.jpeg?Expires=1717284032&Signature=Usfenwy9vLKqgtWlKm7yjPoUY71kaEfP67wiqBy1bayW-8AQurATgCxxRe88IJDXGlDociT06StxwDqZVnaJer2HvkXQeNDsAPnyafeoalbIsuhoRCqODoAumgemKuVbYzFZFCDKXbSd0UQKjo7Xv72hEZfmyhDI3cYLSHetG-w~O0xSEfSSyGGuNLbK5me30Pf74knGInJQogxSA9SaRaJKlvpyFd03yREINIQ3IRrgi5gXyYb8F35fUXHuI2ViuuaaBB6tZ62pi6LM~RTd5d3W0KrWkwGZHTvsgZWjwQYg2TnvRkUWpXCsS1QLXWZJJIsNdULKn1h06Q0eG1uppg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "a2b26792681afa92ca1cabb3ca3835bd",
+                "imageMimeType": "Photo",
+                "imageOrderId": 22,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 403930,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/a2b26792681afa92ca1cabb3ca3835bd.jpeg?Expires=1717284032&Signature=JgK4NPeXb4jgpZEBDw5~ghb3MYdYZyxmRD-fFKFzpKW7grd7Db3GildDY2XszYtJz5WC474z1yO0GuYceBZIh7P8zYk8~QrKDWX3WYu4Ea~wqtvz9270qcpHtRJ9mZ6cVBD-IJuI21yjGwm1wEV5voxnuhud1jQ8aDCmdNU61jc1ptWS4tf5j288lGhIzzOQ0cD3hG6ddEOyZE6TCvOyHp2VbogoYApRyNInK1PdUqJzt1R77nSkcRCLzkRH6Scq1RuKbBNeMNm0UpZwNn6-FXsV14Ydo~VrVJRO~EdYvX4ZRL-td0CqPR1G-AZStkxTt1ZouWg8uKGrJOckWAw3KQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "8b8fc6112d9555d410532f11dcfba274",
+                "imageMimeType": "Photo",
+                "imageOrderId": 23,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 463457,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/8b8fc6112d9555d410532f11dcfba274.jpeg?Expires=1717284032&Signature=Zp44SgN3j0-dFapM7dfEyShSMeX1iv0HJsdn-P4H7zqiG7f6N0~FccgX6-seIGyu-VAxJk3RsJetqzR2OxcAC4YlnBxqCt~1WqD3shFWUbkCOv~mTA~Xv2zNbl7ADMul0NIruveA9-1Ye3mBK~b8mJfw95PefyGpvVWxjebCT0BOfOrXtQN1ST1UVFbzigjCixX-6u9iyNx1WCcwvfGhJ2AcN~2YBwo~i3O7V7MA5g26fVEXH0NpLyn--s3w0mTJkoVftFnLa3ThZSq5FRPduly9H4yEB9B78w7CCxa8R5OGcoS6kTY-og5okY8yFPJQNh5oOrRHRKFBdQ~Mih5DVQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "1b1775c21cdee6f8f658c41824de3c1e",
+                "imageMimeType": "Photo",
+                "imageOrderId": 24,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 554123,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/1b1775c21cdee6f8f658c41824de3c1e.jpeg?Expires=1717284032&Signature=aDJK848ocSXjOrATYPvMfHvwmzv5mw6KdUFhLlCG297vpyXVz0Dk7AZoXQwJf~87DXUDGMGkxdY9NlUWf~UuDu2SFupCO3gQn5pSB053AGxY~qWZz7ZfE415xywcXwOtoE9upVPdMfBAXzLdNZ0py8sVWomQgWaTdY9L7n-6CLx~DFEBFEw9WrCA2UTXVrEhJ3kGnBoibG1Gjf2VhvK15I4TnwwOyLsBwtml9MqNLDxlXKZIxce-fhZ3suSnbF7qhODuNjgVBonTUMdTq0QE2~geP6G7aiIO6PJ4TFEv~9R9t2AgOTNRdGw3VbpBA55-l~7ZCxdHr6og2CuKjaHNeQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "28fff69f877c5d6decfebb97c45d668d",
+                "imageMimeType": "Photo",
+                "imageOrderId": 25,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 480943,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/28fff69f877c5d6decfebb97c45d668d.jpeg?Expires=1717284032&Signature=Rkku~cGB3pyXZotW5ZPTgvv5r32XfOi-K6yCB6W1WtpSDLbOFwrq8GPO56b~City-6fTqBPbtfFPPL2aO5SU9TqmDFlvtQa~MepD5hIi8g8ABVjgyq3bYp97kTW5J0GhRfrFiBdxbORffAc2CUupE~-AN~irwjfwTXDrp5iUeQMQxLl1u7x6nsOFGO0ChIkEd0Ki8Xsu-aoLuEFaI0B6W6lG49BJh1-js4gc9vgLvRmTAU4tT6ry1SBxwGel2P3ElcDBpKohB16Mafe9uBcRZDaj6C5cm~TUAWykZRd3ZCtuY2L~IMV2P4YVRZRdjEjfOnKlCNspt5mZVUrCX9reTg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "8f303fc2f4401bbaba101236de35c7da",
+                "imageMimeType": "Photo",
+                "imageOrderId": 26,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 513742,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/8f303fc2f4401bbaba101236de35c7da.jpeg?Expires=1717284032&Signature=B7gTn3vVWzFs-~-keChKrA16EQ~J060PtUnyIkML8YPUNVVpnGQSRm2N5bJkO1tMz5p5dMKWO0tWchLZKJX-zCPgy7oQe2aAjfxZCODFsAuA6259WhcRWLygrxEipFXzmP8zrVWdEQkn7K~HS9BVMoVXZ4bFGRCQYpeRDu1k22NJJU4cyfL6712UhiIM-X4UeXA6pVuc2bNxSXTv04BggYnGUyioAv-xNGdy84vqpIMYiF9QYBiSSTYzjOX3PQ9mqo1ptRKhqCNsLgdPC6Nh7KFRnGiQV~saL~jY2kHbNTaLaC7x09GUcSKNYfS0uQBT7Dcc9jH28N1ldE2x79gmqw__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "e5f9e11371aa8de356ca8de4a127a6d7",
+                "imageMimeType": "Photo",
+                "imageOrderId": 27,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 539160,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/e5f9e11371aa8de356ca8de4a127a6d7.jpeg?Expires=1717284032&Signature=YJ4LD0Rkx7KcdgopnZrL6nYGRH-Xi2tGtzqm9HVvL4-jqPKBoTvefFMj09JcUrPgFa51QvZQ57ygQ~-kyW9THjurAny9WowecC~CDCh4pmi7Co2PtO-k2ZIvWXIgvmbXgAXMjZU6e~CboIg6WnPFAy1DNP6VQ--pb0xQSO1VM0zOd6vwSWT9bZkELXGbpjg1xRiRgivru0--uWAqI4~IrVt5Y4SgV~4sQdRsMMBDeLqNKaPA5hfZqMU~2NU~HfDVlBsGasECFloZ~wabNUQUONs5UclriBvRdxUAmLHetcEeeGCmnVglnlwLTarC1XRerMWp5Uppm1GdIA5fo8s80g__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "16111b408c5952ad01fbd0308feba9bc",
+                "imageMimeType": "Photo",
+                "imageOrderId": 28,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 547213,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/16111b408c5952ad01fbd0308feba9bc.jpeg?Expires=1717284032&Signature=YU0KLHzRGYrWdpm2U19s5znMdLP~oXoetLB54ozAfbpqKhXyoCmwp5WJb3Tl5iHNZS1wR9cvJjcU8D6xylDZwxRybC~CsXCBs4146q8x5X03vVWWmqVey7L3tMJJyYJUqeEnMVGelcVkrOZ3tosCOJAu9NIPj8InIXzLnwTzV2gOgegAytXn~Cmb9sHai6yDPfXersnI8NR3TkSlCgb77T1PvFFu6TlP1Ocv7OCy5vxaWZ2pu8D91BkJ66ffcb0F-wpq7ikFO06mAWoXUvB7zciyJ9QGkzhX2BGhTRS9utkOdPpBFus3dm89DKzi4TA57OlAYIqNaX0JQ6VPHoVZFg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "f26e50d00d166a5d355e6119553e899b",
+                "imageMimeType": "Photo",
+                "imageOrderId": 29,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 600777,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/f26e50d00d166a5d355e6119553e899b.jpeg?Expires=1717284032&Signature=Pc810f-pb15XnJ~n0FfG06KQ0ZmGWGZGrIsjGehHJaU8JStQ74NJeKD53PNEkWxhG~LcYQEN5pwKwA0WX33LWjXg7YFS2aD42o6NS911yJuTGAO6iB-rRVixGRgVY-8sNdoqCQcV2FhSkO2DQS0HJE9f8EKwARxuTc8z7WRefO4BZq3VqeAEykNAlp8~mugfub8wvayWWpC5sy9KPrf0ihI3PNAWHymcTd-U8qsQ14b56Zmpb1wYMqO-oOt-d92No9fO9D7aqTpIVlQh28xLWK63~SfG0HZBUnMOdXWrtaGlLr3rZOr9z3JnhdPU6ZgX2vgU4L5TsLbbLWGfTDsrkQ__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "50d93fb2c3a57b81611f7004c48be78d",
+                "imageMimeType": "Photo",
+                "imageOrderId": 30,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 595906,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/50d93fb2c3a57b81611f7004c48be78d.jpeg?Expires=1717284032&Signature=SheYAG5zKVdiEbKQCKyce5KVaPf4PiMTquW0oz927s3bwRACXbJp3Z0F4S8XvyfSQ17JK2G03PHjmEHWX975VQSD-JctyJh~ebWrx4BHsQEuyzrjiw0qSu4M0~42ZQLZbs0ws1TkrbXmRI3eLH79149zUYd5jc5MlySYuqveCEaiw6UlAsiVlpWkf2ZuENUVNB670LfrkruqCRxSkC4lF11n7IynBRHBpqszH5UNxKNMzpigTHricED8TlzFeAbwKtX0Zv8cmhmtqhrf8eLQBurGjILl0PcsUytrWBC26LM~~OAJ0co7hChmFrKS89mILSxlF~WLzukTxDWLxka3Bg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "ebe08f5cdaacf390943a258a42b0ec39",
+                "imageMimeType": "Photo",
+                "imageOrderId": 31,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 612945,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/ebe08f5cdaacf390943a258a42b0ec39.jpeg?Expires=1717284032&Signature=Sw0cq92ZZry-0mHJ1JyAhS8L4VBPYkshtL9IL3PC5KneC5hdN6iedoh2jdjLe54kHOmVuzgXQD8rtOni6uXCgZuAMDsU43LUvnUKz3BKlURwIhoovhyKi59lxmT6zwuq-YtV1egmA6scAWIWTod8FwP8D3tAtdI4jpE5tmy6IS8sSiWQHk4eOIsOV95-5RA9LREEtM-Wog9Njg-Vc4GASBf0f9VlhFAEvNspUkzxKIAf5KQDB2vn2-Uo8SOJpQac7DSeKU8SPMlqeg3M1t-XqsM9xR0atV6iJKbPNM3m-WIHO4pRQ8PsNiM5-oOF6eeGbD13dMTwcv1TCU3NnGWkGw__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "abf703026b3e00f78ab6b25fc169549a",
+                "imageMimeType": "Photo",
+                "imageOrderId": 32,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 413910,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/abf703026b3e00f78ab6b25fc169549a.jpeg?Expires=1717284032&Signature=BvuKKGINmlrxHDcqIcMdRtnuc-gZlaYk3ywDSuF-RI6X0q3C~0dKmtEL20AT6R6MaCVMab1JqKzoOg65TbYulztmXZzewO3GHZmryAw4wnn-kaclSwx5xFkDo~gtge9oi1MzT2VR9lPztopMNFajedTToqLKvYixt18A1~YO~T7QfJ4ofzRrfXmL1EG0CfuZq~FK5rTib5K78f1KlJvUE9uqOAtijqPP2hbRjR0Uq25RexPLDAiAGs~zhVPSJBYEDqjQgWu1E9ZHineld8HpqwwGFAD-MyqezoKn6AR0B6gqJhum4rdjImhbEpDWwcdI~03DghJxx5qVa17NhUnRtg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "fe9931bf869ca31add173a1b8c8c0a19",
+                "imageMimeType": "Photo",
+                "imageOrderId": 33,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 620285,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/fe9931bf869ca31add173a1b8c8c0a19.jpeg?Expires=1717284032&Signature=aIKsGa3QSlD1xhvoi4BZpoDLxApb9QPzVBLKDPWDbi3W2JkIoD3upUrXXIFgX2zDLRh1d8iB-EmBWCYwD8V3edc6m4l4q7QYigI4i6LlZ25eoCPidC9OfRE4~crcVwb2l7Lf9f3rQZlI-8lhvk~hFgAznJJPaBYuddynn2IGU78m0~25PHUKz7qXOL042xOtvdY~Aw4VRj~i3DMvPsjWE3Tn4E4F-mGgKfNhlYSRac~HtIG6uJ6bwo4lXLR-mgut~rLW4egn3FYoC2R5YcuEm4~AGnoAk2zlUzIYmSXkDXXzY5ZPTEdHppuZyMRtKM-ajyQ0DKs28aVHfSi870Efgg__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "8bfa911e7dc0ee38e53a5d8771a34b60",
+                "imageMimeType": "Photo",
+                "imageOrderId": 34,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 643082,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/8bfa911e7dc0ee38e53a5d8771a34b60.jpeg?Expires=1717284032&Signature=VMaEzNRiiPDCiEvGPdd9RpGisk6yHX7Jo9QJ8TvJaS3ThJ56OLglr6kLg6zcESqkTdQVRr9bwsPUQE8x~D8XVRgzMR-QwFm9zrLWVDg5HPiX28IR7jtIpXc~SCGSxQwMEp2zBzyPz4HoiIEtPfi~I-zMOtE4tmO7s~agu67PhWgbOb1FubFuxtAMsJEKhld3K5KBNDMJDPf7o3-Sw9W9IeDJ9G0O1JryINEe0PKd~Uv9hv8EhDflCELuqxCnYBy-akHDRPIFx8ofjRmOmisVH06CHFjT~jh9zcHXi7R~S94hU~yTqXnmzpDhbBNgEHzqPg2euAcFzCBrHT7WTPEcpA__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "7d9b36626a8b0897cd44ff3a15b986d1",
+                "imageMimeType": "Photo",
+                "imageOrderId": 35,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 1007214,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/7d9b36626a8b0897cd44ff3a15b986d1.jpeg?Expires=1717284032&Signature=gsuPN68s7aSF3pquzJVdKPv5oeezRaCDZK-2LMADP5z2NGJGPPUDVBmGzz4sl1f-IxOo0CaqTx5MNLheDj6YQ4L756hRAe2U-tgx3A2o3oeRkW3U5ldlb3PGIDq1JkBCiYPk1q4uyztSIxDvvej4QYK8FOsyttbgBX-3L9heiVd2gZ4HzC-K7XSjGGTIl9YsCceXeTo3FQw5SbfHylMeXvQp8L3X7kdK0Ve70TBNJHFlEvpQ97Bn1ucXSzi3O-jgJktMkfaC3Ngdx0KBO4fk17yubA22~oL8Z4pOETMKEmfxLXqPhiozieOcxH2DkYIRXrSloxWWwXWOpezQzT~2QA__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "4bb933e912f8f2e8d28c8b6be8f29bb4",
+                "imageMimeType": "Photo",
+                "imageOrderId": 36,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 1171118,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/4bb933e912f8f2e8d28c8b6be8f29bb4.jpeg?Expires=1717284032&Signature=TUNtKl097KZvh-~l-qvXycKvPGnFwD2NUTo0jgjw8s~LYnX9VKUTbd1aF2ZLRpVQhkHTWfd00r5f2-1SYphFhzFeCk-z2UfY1Y6BJTwZqXxEoVf4u5ZZW~lpuTQeezzZwYJd0GpKrUfHtuTzVJ3sos5jp2FB-OItNT13BhuafxgTjq~5Dzn3HaAU0BOHxLRC8dapeBmddtQC8NgY3UGq9~LLJB1HDj~7FYlRiEmj67ZooKYSKLH2qlqWp8io2KxnDsxnottmMkGvpWpRbth06C9waAvB6t027MM3uEyYlTOHZdACB3D6j0b~pMioTsNWXdM-iDITAWWDGfdBmzgK6w__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "0d528f1c9a14092efb1d0fdb412c1b0e",
+                "imageMimeType": "Photo",
+                "imageOrderId": 37,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 843468,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/0d528f1c9a14092efb1d0fdb412c1b0e.jpeg?Expires=1717284032&Signature=WQCw~WYgkT-L9DOOb~DJP3~sAzlfKH~PGhRx80cVvv1nal0cvVhW0tgTOqj6aFf3P1ZDX1Sdzpy8b1igydU5-5g995qVNx23QZx-vUh6j2XiuUD2z5dXN6NY7BLHeUyMX69FAHNSKCVBBjwXu~IkRPo6Xm5eydgrXSfKUlLm67bVT8eF2Sbd9cNa82R8ogqFKXuxa2i-EC6P8C3jJs2lwGEQhkleGp0CWQXBxVNe7rgAsErEgEEectsI3jcZ9y~sLkgC12QwrmpAID9fzThnbqIomdf5VcFuAPJh7f~wzErm2ufsKlKPt7hd~oK6OMXd6P9fLKeshf~ESOxtdOgGbA__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "593d4206d98d61fe84c6b684913db52b",
+                "imageMimeType": "Photo",
+                "imageOrderId": 38,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 696869,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/593d4206d98d61fe84c6b684913db52b.jpeg?Expires=1717284032&Signature=HfcDYQXpwOWlf3JL8MXUopBr5y1HuBVWISkLFzgUMxKJp6LnihICV~8q5K5cyOY3gGzZ9zkFl182qLigMPNHNMROKXp1q5Cz80XbZApnJx-0fXj6X6u8qc~famHGTWGFo2m45Ubu7H1Pn4JXrjADe2HDdlxms1Aoa9o0XjCJjV3g2pY8Uq5vEugw7CTARuyyomaUu4ea0mTzBSRJp1ss2dE7uX6ez0BeWkwnor0AIORrYbmsBlAhTeHTO35S-db0P9720Ls9ugjlcTfHYvp5q~6SrW4mD~aoTdOuTEXZVBSY5asP0psaxm~J5~smFNXtI8imUBAHOEuYGM7mIoZSGw__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "5af5bf5098250ac67d58ff56fba8d1c4",
+                "imageMimeType": "Photo",
+                "imageOrderId": 39,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 213348,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/5af5bf5098250ac67d58ff56fba8d1c4.jpeg?Expires=1717284032&Signature=JU6AEzUZssz4KA8NYExFt6hy1Qc7t8-323E0QS8Dv4RxZgSrLEjfvyi7LLEN1QuiwzAW1paPzLI3GSbXnkrl3yjRMdGBuR9uCVOSLYAozTDu6iIxQXO4uD96Guhw~6gXPaEDzyABtE15CYcPSMzp045K4ejoQgBkDnWnp52JOGlYj3Ks2s2J4z28coV~JWTU8RSOVD1GdiWlax1KBYx1BjPVNAD9ydg6h3YDyTKA4fROjxBUOoS9F~PR2rTroT743IplxMZPexuicpzaaaJX8AVm57q8VICELz6pm9zkU9X9-3H82nz08pa65K0Qbgsub9G0Sqrit0SSszTCDZ5Quw__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              },
+              {
+                "imageDescription": "",
+                "imageHash": "88df50118410f8985af3382f368e689d",
+                "imageMimeType": "Photo",
+                "imageOrderId": 40,
+                "imageResolution": {
+                  "height": 2560,
+                  "width": 1920
+                },
+                "imageSize": 224446,
+                "url": "https://dexjpy0wclpxj.cloudfront.net/429668422/88df50118410f8985af3382f368e689d.jpeg?Expires=1717284032&Signature=N7e3NMi7urUb6ZyvF~uKuH9nkyHi2dc0iQbXCGymk9loTBKVuZ9WPY9quFncxmPxTcgh~KbVP2Wf8sJObOJ~SMx7N~EXII8iWediLVpdAUs~Wa15OHXH7ebr8tOJajYWPfqi3KK9hRtvykIBN~DHkNtHkpmGlhspivKnQMnS3KNjGWhrv7yIABfkVeYPJYpN6daze9du~FsfeTdLlOmqvAGSr6OdUC1yF0G2dg8bIb8FsbbUNrW6~mtEUHgrUCb8UL2c-neh1WN8nUAlV6PECt4rEbvw69CAXWDDpd3xmJJumxpfM61AwpcGk2hHBjfxiYDXMrICmmxrO0TnfDju1Q__&Key-Pair-Id=APKAIRLUSEP6QUB5PEZQ"
+              }
+            ],
+            "totalPhotoCount": 40
+          },
+          "pool": null,
+          "pricePerSquareFoot": null,
+          "propertySubTypeName": "General Single Family",
+          "propertyType": "Single Family",
+          "propertyTypeLong": "Single Family",
+          "propertyTypeShortName": "SFR",
+          "roof": "Composition Shingle",
+          "saleDate": "2022-09-07",
+          "salePrice": 595000,
+          "saleType": "Fair Market",
+          "status": "Sale",
+          "statusDate": "2022-09-07",
+          "statusPrice": 595000,
+          "style": "Modern",
+          "unfinishedBasementSize": null,
+          "units": null,
+          "view": null,
+          "zoningCode": null,
+          "zoningType": null
+        },
+        {
+          "address": {
+            "city": "Lakewood",
+            "state": "CO",
+            "street": "13 S Ames St",
+            "zipcode": "80226"
+          },
+          "apn": "061008",
+          "assessedYear": null,
+          "basementSize": null,
+          "bath": null,
+          "bathFull": 1,
+          "bathHalf": 1,
+          "bed": 4,
+          "built": 1957,
+          "cooling": "Evaporative Cooler",
+          "countyLandUse": null,
+          "countyLegalDescription": null,
+          "daysOnMarket": 62,
+          "fipsCode": "08059",
+          "fireplace": "Yes (fireplace exists)",
+          "foundation": null,
+          "garageCount": 5,
+          "garageType": "Attached Garage",
+          "gla": 2262,
+          "heating": "Forced air unit",
+          "hoaAmount": null,
+          "hoaFeeFrequency": null,
+          "hoaName": null,
+          "hoaPhoneNumber": null,
+          "legalLotId": null,
+          "legalSubdivisionName": null,
+          "levels": null,
+          "listDate": "2022-07-07",
+          "listPrice": 630000,
+          "listingId": 226104454,
+          "lotSize": "10900",
+          "mlsCommentary": "Welcome home to this beautiful 4 bed, 3 bath brick ranch in Lakewood Terrace. This bright home features an expansive living room with large, updated windows, tons of natural light, and a cozy pellet stove for cooler evenings. The impressive eat-in kitchen with updated granite counters tops, beautiful wood cabinets, pristine tile and backsplash is superb for entertaining. The main floor has two bedrooms; an expansive primary bedroom with plenty of space for additional storage, and a 2nd bedroom with sliding door closet. The main floor full bathroom is wide and roomy with stylish tile and the 2nd bath (powder room) is also updated and convenient. The fully finished basement has 2 additional large bedrooms with an updated ¾ bath, and relaxing oversized family room with brand new carpet, fresh paint, and completely updated with nice finishes! Updated electric service along with evaporative cooling and ceiling fans add to the value and efficiency of this lovely home. The backyard boasts a covered concrete patio, a large yard with plenty of room for gardening, and mature trees that offer lots of shade. In addition to the one car attached garage, an oversized 4 car detached garage provides ample storage for vehicles with extra space for a workshop / studio. Located just blocks from Belmar shopping, restaurants, and minutes from O’Kane Park, Highway 6, I70, I25 and only blocks from light rail with service to downtown Denver, DIA, and more! Quick access to Golden, Evergreen or your favorite mountain resort!",
+          "mlsName": "RE Colorado MLS",
+          "mlsNumber": "REC4492134",
+          "photos": {
+            "insertedDate": null,
+            "listingId": 226104454,
+            "mlsBoardKey": null,
+            "mlsId": null,
+            "photoResult": null,
+            "totalPhotoCount": 0
+          },
+          "pool": null,
+          "pricePerSquareFoot": 263,
+          "propertySubTypeName": "General Single Family",
+          "propertyType": "Single Family",
+          "propertyTypeLong": "Single Family",
+          "propertyTypeShortName": "SFR",
+          "roof": null,
+          "saleDate": "2022-09-07",
+          "salePrice": 595000,
+          "saleType": "Fair Market",
+          "status": "Sale",
+          "statusDate": "2022-09-07",
+          "statusPrice": 595000,
+          "style": "Modern",
+          "unfinishedBasementSize": null,
+          "units": null,
+          "view": null,
+          "zoningCode": null,
+          "zoningType": null
+        }
+      ],
+      "publicRecords": {
+        "address": {
+          "city": "Lakewood",
+          "state": "CO",
+          "street": "13 S Ames St",
+          "zipcode": "80226"
+        },
+        "apn": null,
+        "assessedYear": 2022,
+        "basementSize": 838,
+        "bath": null,
+        "bathFull": 2,
+        "bathHalf": null,
+        "bed": 3,
+        "built": 1957,
+        "cooling": null,
+        "countyLandUse": "201",
+        "countyLegalDescription": "SECTION 12 TOWNSHIP 04 RANGE 69 QTR SE SUBDIVISIONCD 451800 SUBDIVISIONNAME LAKEWOOD TERRACE BLOCK 015 LOT 0026 SIZE: 10900 T",
+        "fipsCode": null,
+        "fireplace": null,
+        "foundation": null,
+        "garageCount": null,
+        "garageType": "Mixed",
+        "gla": 1270,
+        "heating": null,
+        "hoaAmount": null,
+        "hoaFeeFrequency": null,
+        "hoaName": null,
+        "hoaPhoneNumber": null,
+        "legalLotId": "26,10900",
+        "legalSubdivisionName": "LAKEWOOD TERRACE",
+        "levels": 1,
+        "listDate": null,
+        "listPrice": null,
+        "listingId": null,
+        "lotSize": "10890",
+        "mlsCommentary": null,
+        "mlsName": null,
+        "mlsNumber": null,
+        "pool": "No",
+        "propertySubTypeName": "General Single Family Detached",
+        "propertyType": "Single Family",
+        "propertyTypeLong": "Single Family",
+        "propertyTypeShortName": "SFR",
+        "roof": null,
+        "saleDate": "2022-09-07",
+        "salePrice": 595000,
+        "saleType": null,
+        "status": null,
+        "statusDate": "2022-09-07",
+        "statusPrice": 595000,
+        "style": "Ranch/Rambler",
+        "unfinishedBasementSize": null,
+        "units": 1,
+        "view": "Unknown",
+        "zoningCode": null,
+        "zoningType": "Residential"
+      }
+    }
+  },
+  "terms": "This analysis has not been performed in accordance with the Uniform Standards of Professional Appraisal Practice which requires valuers to act as unbiased, disinterested third parties with impartiality, objectivity and independence and without accommodation of personal interest. It is not to be construed as an appraisal and may not be used as such for any purpose. Use of this report is subject to the terms of use agreed to by the user and any contracts in place between ClearCapital.com, Inc. (\"Clear Capital\") and the user. Although the information in this report has been derived from sources that are deemed to be reliable, the information may be inaccurate or incomplete, and electronic versions of this report may contain additional information not included herein. Further, this report has been generated on an automated basis from available data and did not include a physical inspection of the applicable property or neighborhood.  Therefore, no guarantees or warranties are made as to the accuracy of this report, the characteristics, condition or existence of the property, or any other information included in the report. This report is not an appraisal or broker price opinion and should not be relied on as such. In the event that this report is found to be defective, incorrect, negligently prepared or unfit for its authorized use, Clear Capitals sole liability shall be to promptly refund the total fee expended by the user for this report or to replace it at no charge to the user, but in no event shall Clear Capital or broker be responsible for any indirect or consequential damages whatsoever.  This warranty is in lieu of all other warranties, express or implied, except where otherwise required by law. The user shall notify Clear Capital within thirty (30) days of delivery if it believes that this report is defective, incorrect, negligently prepared or unfit for its authorized use. Under no circumstances may this form or its contents be published, displayed, copied, replicated, mimicked or distributed, except as expressly approved by Clear Capital.",
+  "trackingId": "1"
+}
